@@ -1,4 +1,4 @@
-# Profile
+# Bio/Profile
 Meu nome é Guilherme Ribeiro.  
 Publico conteúdo educativo para programadores e desenvolvedores:
 - Fundamentos e estruturas de dados
