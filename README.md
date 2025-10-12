@@ -5,7 +5,7 @@ Publico conteúdo educativo para programadores e desenvolvedores:
 - Git e versionamento
 
 # Links
-- [@codemaps](https://codemaps.pages.dev)
+- [Newsletter](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
 
 # Stats
