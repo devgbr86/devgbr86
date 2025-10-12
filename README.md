@@ -5,6 +5,13 @@ Publico conteúdo educativo para programadores e desenvolvedores:
 - Projetos Java e JavaScript
 - Git e versionamento
 
+# Skills
+- HTML+CSS
+- JS
+- NODE.js
+- JAVA
+- GIT
+
 # Contato/Links
 - [Newsletter](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
