@@ -7,5 +7,5 @@ Publico conteúdo educativo para programadores e desenvolvedores:
 # Links
 - [@codemaps](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
-
+--
 ![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgbr86&show_icons=true&theme=dark)
