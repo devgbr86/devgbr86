@@ -1,9 +1,11 @@
-# Olá, eu sou @devgbr86 👋
+# Meu nome é Guilherme Ribeiro.
+Publico conteúdo educativo para programadores e desenvolvedores:
+- Fundamentos e estruturas de dados
+- Projetos Java e JavaScript
+- Git e versionamento
 
-Bem-vindo ao meu perfil! Aqui você encontra projetos de **JavaScript**, **Java**, **Git**, e muito mais.
-
-## Meus Links
-- [Portfólio](https://devgbr86.github.io)
+# Links
+- [@codemaps](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
 
 ![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgbr86&show_icons=true&theme=dark)
