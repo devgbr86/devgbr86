@@ -5,7 +5,7 @@ Publico conteúdo educativo para programadores e desenvolvedores:
 - Projetos Java e JavaScript
 - Git e versionamento
 
-# Links
+# Contato/Links
 - [Newsletter](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
 - Contato: topverbs@gmail.com
