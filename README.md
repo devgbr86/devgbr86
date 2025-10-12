@@ -1,4 +1,5 @@
-# Bio/Profile: Guilherme Ribeiro
+# Bio/Profile
+**Guilherme Ribeiro**
 
 # Skills
 Publico conteúdo educativo para programadores e desenvolvedores:
