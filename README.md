@@ -8,7 +8,7 @@ Publico conteúdo educativo para programadores e desenvolvedores:
 # Links
 - [Newsletter](https://codemaps.pages.dev)
 - [LinkedIn](https://www.linkedin.com/in/devgbr)
-- [@mail](topverbs@gmail.com)
+- [topverbs@gmail.com](topverbs@gmail.com)
 
 # Stats
 ![Meu GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgbr86&show_icons=true&theme=dark)
