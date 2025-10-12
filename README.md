@@ -1,5 +1,5 @@
 # Profile
-Meu nome é Guilherme Ribeiro.
+Meu nome é Guilherme Ribeiro.  
 Publico conteúdo educativo para programadores e desenvolvedores:
 - Fundamentos e estruturas de dados
 - Projetos Java e JavaScript
