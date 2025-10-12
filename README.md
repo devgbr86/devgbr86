@@ -8,8 +8,8 @@ Publico conteúdo educativo para programadores e desenvolvedores.
 - topverbs@gmail.com
 
 # Skills
-- Fundamentos e estruturas de dados
-- Projetos Java e JavaScript
-- HTML+CSS
+- JAVA
+- JAVASCRIPT
 - NODE.js
+- HTML+CSS
 - GIT e versionamento
