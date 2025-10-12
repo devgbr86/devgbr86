@@ -1,5 +1,5 @@
 # Bio/Profile
-Meu nome é Guilherme Ribeiro.  
+**Nome: Guilherme Ribeiro**     
 Publico conteúdo educativo para programadores e desenvolvedores:
 - Fundamentos e estruturas de dados
 - Projetos Java e JavaScript
