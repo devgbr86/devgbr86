@@ -9,8 +9,8 @@ Publico conteúdo educativo para programadores e desenvolvedores.
 
 # Skills
 - JEKYLL
-- JAVA
 - JAVASCRIPT
 - NODE.js
 - HTML+CSS
+- JAVA
 - GIT
