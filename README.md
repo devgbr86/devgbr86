@@ -8,9 +8,9 @@ Publico conteúdo educativo para programadores e desenvolvedores.
 - topverbs@gmail.com
 
 # Skills
+- FRONTEND
 - JEKYLL
 - JAVASCRIPT
 - NODE.js
-- HTML+CSS
 - JAVA
 - GIT
