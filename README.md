@@ -3,10 +3,11 @@ Meu nome é **Guilherme Ribeiro.**
 Publico conteúdo educativo para programadores e desenvolvedores.
 
 # Skills
-- FRONTEND
+- HTML/CSS
 - JEKYLL
 - JAVASCRIPT
 - NODE.js
+- FLUTTER
 - JAVA
 - GIT
 
