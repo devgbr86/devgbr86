@@ -1,6 +1,5 @@
 # Bio/Profile
-Meu nome é **Guilherme Ribeiro.**      
-Publico conteúdo educativo para programadores e desenvolvedores.
+Olá! Meu nome é Guilherme Ribeiro e sou um desenvolvedor apaixonado por criar soluções eficientes na web e em aplicativos. Tenho experiência com HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git. Gosto de aprender novas tecnologias, otimizar fluxos de trabalho e construir projetos.    
 
 # Skills
 - HTML/CSS
