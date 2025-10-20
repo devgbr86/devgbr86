@@ -1,16 +1,40 @@
-# Bio/Profile
-Meu nome é **Guilherme Ribeiro.**     
-Sou um programador e desenvolvedor. Tenho experiência com HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git. Gosto de aprender novas tecnologias, além de construir e otimizar projetos.       
+# Guilherme Ribeiro
 
-- [Personal site](https://devgbr86.github.io/profile)
-- [LinkedIn](https://www.linkedin.com/in/devgbr)
-- topverbs@gmail.com
 
-# Skills
-- HTML/CSS
-- JAVASCRIPT
-- NODE.js
-- JAVA
-- FLUTTER
-- JEKYLL
-- GIT
+Meu nome é Guilherme Ribeiro.
+Sou programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git. Gosto de aprender novas tecnologias e construir e otimizar projetos. Inscreva-se na Newsletter para receber tutoriais completos.
+
+<p align="left">
+    <a href="https://devgbr86.github.io/profile/">🏠 Personal site</a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/devgbr/">💼 LinkedIn</a> &nbsp;&nbsp;
+    <a href="mailto:topverbs@gmail.com">✉️ E-mail</a>
+</p>
+
+---
+
+### Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Jekyll" title="Jekyll" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jekyll/jekyll-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br/>
