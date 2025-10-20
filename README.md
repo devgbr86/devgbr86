@@ -1,8 +1,7 @@
 # Guilherme Ribeiro
 
 
-Meu nome é Guilherme Ribeiro.
-Sou programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git. Gosto de aprender novas tecnologias e construir e otimizar projetos. Inscreva-se na Newsletter para receber tutoriais completos.
+Programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git. Gosto de aprender novas tecnologias e construir e otimizar projetos. Inscreva-se na Newsletter para receber tutoriais completos.
 
 <p align="left">
     <a href="https://devgbr86.github.io/profile/">🏠 Personal site</a> &nbsp;&nbsp;
