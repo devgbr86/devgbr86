@@ -11,7 +11,7 @@ Programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, J
 
 ---
 
-# Skills
+# Tech Skills
 
 <img 
     align="left" 
