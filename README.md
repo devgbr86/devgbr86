@@ -4,7 +4,7 @@
 Programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git.
 
 <p align="left">
-    <a href="https://devgbr86.github.io/profile/">🏠 Personal site</a> &nbsp;&nbsp;
+    <a href="https://devgbr86.github.io/hub/">🏠 Personal site</a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/devgbr/">💼 LinkedIn</a> &nbsp;&nbsp;
     <a href="mailto:topverbs@gmail.com">✉️ E-mail</a>
 </p>
