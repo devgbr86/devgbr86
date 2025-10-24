@@ -1,7 +1,7 @@
 # Guilherme Ribeiro
 
 
-Programador e desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git.
+Programador e Desenvolvedor com experiência em HTML/CSS, JavaScript, Node.js, Java, Flutter e frameworks como Jekyll, além de gerenciamento de versões com Git.
 
 <p align="left">
     <a href="https://devgbr86.github.io/profile/">🏠 Personal site</a> &nbsp;&nbsp;
