@@ -14,6 +14,8 @@ Programador e Desenvolvedor com experiência em JavaScript, Java, Flutter e fram
 # Tech Skills
 ---
 
-**HTML/CSS | JavaScript | Marked.js | Node.js | Java | Flutter | Git**
+**HTML/CSS | JavaScript | Marked.js | Node.js | Java | Flutter | Jekyll | Git**
+
+
 
 <br/>
