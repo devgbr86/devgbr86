@@ -41,7 +41,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 ## Tech Skills
 
 
-**Developer | JS | Node.js | Marked.js | TailwindCSS | Flutter | Java | Jekyll**
+**JavaScript | Node.js | Marked.js | TailwindCSS | Flutter | Java | Jekyll**
 
 
 
