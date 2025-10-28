@@ -32,7 +32,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 ## Mail
 
 <p align="left">
-    <br><br><a href="https://www.linkedin.com/in/devgbr/"> linkedin.com/in/devgbr</a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/devgbr/"> linkedin.com/in/devgbr</a> &nbsp;&nbsp;
     <br><br><a href="mailto:topverbs@gmail.com"> topverbs@gmail.com</a>
 </p>
 
