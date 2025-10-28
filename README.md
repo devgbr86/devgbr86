@@ -35,7 +35,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 *LinkedIn*       
 [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)   
-*Mail*
+*Mail*     
 topverbs@gmail.com
 
 
