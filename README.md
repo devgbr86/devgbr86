@@ -12,13 +12,12 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 ## Códigos e Projetos
 
-
-*GitHub*      
-[github.com/devgbr86](https://github.com/devgbr86)            
+         
 *MD Page/Site/Template*       
 [devgbr86.github.io/md-template](https://devgbr86.github.io/md-template/)       
 *Coffee-shop Template*       
 [devgbr86.github.io/coffee-shop](https://devgbr86.github.io/coffee-shop/) 
+
 
 ## Newsletter
 
