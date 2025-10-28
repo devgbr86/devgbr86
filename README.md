@@ -35,9 +35,12 @@ topverbs@gmail.com
 
 ## Skills
 
-
-**JavaScript | Node.js | Marked.js | TailwindCSS | Flutter | Java | Jekyll**
-
+- **HTML/CSS**
+- **JS/Node/Marked.js**
+- **TailwindCSS**
+- **Flutter**
+- **Java**
+- **Git**
 
 
 <br/>
