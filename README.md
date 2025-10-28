@@ -30,12 +30,15 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 
 
-## Mail
+## Contact/Links
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/devgbr/"> linkedin.com/in/devgbr</a> &nbsp;&nbsp;
-    <br><br><a href="mailto:topverbs@gmail.com"> topverbs@gmail.com</a>
-</p>
+
+*LinkedIn*       
+[linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)   
+*Mail*
+topverbs@gmail.com
+
+
 
 
 
