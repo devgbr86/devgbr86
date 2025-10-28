@@ -15,9 +15,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 *Personal site*       
 [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)           
-*MD Page/Site/Template*       
-[devgbr86.github.io/md-template](https://devgbr86.github.io/md-template/)       
-*Coffee-shop Template*       
+*Coffee-shop Page/Site/Template*       
 [devgbr86.github.io/coffee-shop](https://devgbr86.github.io/coffee-shop/) 
 
 
