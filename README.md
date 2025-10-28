@@ -10,7 +10,7 @@ para receber tutoriais, guias e referências.
 Compartilho meus códigos e projetos no repositório GitHub.
 
 
-## Códigos e Projetos
+## Mail/Links
 
 
 - Personal site       
@@ -22,8 +22,6 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 
 
-
-## Contact/Links
 
 
 - LinkedIn       
