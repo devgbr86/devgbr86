@@ -13,16 +13,11 @@ Compartilho meus códigos e projetos no repositório GitHub.
 ## Códigos e Projetos
 
 
-*Personal site*       
+- Personal site       
 [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)           
-*Coffee-shop Page/Site/Template*       
+- Coffee-shop Page/Site/Template       
 [devgbr86.github.io/coffee-shop](https://devgbr86.github.io/coffee-shop/) 
-
-
-## Newsletter
-
-
-*Inscreva-se*       
+- Newsletter       
 [devcaffe.substack.com](https://devcaffe.substack.com) 
 
 
@@ -31,9 +26,9 @@ Compartilho meus códigos e projetos no repositório GitHub.
 ## Contact/Links
 
 
-*LinkedIn*       
+- LinkedIn       
 [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)   
-*Email*     
+- Mail     
 topverbs@gmail.com
 
 
