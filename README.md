@@ -33,7 +33,7 @@ topverbs@gmail.com
 
 
 
-## Tech Skills
+## Skills
 
 
 **JavaScript | Node.js | Marked.js | TailwindCSS | Flutter | Java | Jekyll**
