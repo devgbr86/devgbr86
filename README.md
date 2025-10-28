@@ -11,7 +11,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 
 ## Códigos e Projetos
----
+
 
 *GitHub*      
 [github.com/devgbr86](https://github.com/devgbr86)            
@@ -21,7 +21,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 [devgbr86.github.io/coffee-shop](https://devgbr86.github.io/coffee-shop/) 
 
 ## Newsletter
----
+
 
 *Inscreva-se*       
 [devcaffe.substack.com](https://devcaffe.substack.com) 
@@ -37,7 +37,7 @@ Compartilho meus códigos e projetos no repositório GitHub.
 
 
 
-# Tech Skills
+## Tech Skills
 
 
 **Developer | JS | Node.js | Marked.js | TailwindCSS | Flutter | Java | Jekyll**
