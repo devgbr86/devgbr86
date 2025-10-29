@@ -3,7 +3,7 @@
 
 Programador e Desenvolvedor com experiência em
 JavaScript, TailwindCSS, Marked.js,
-Node.js, Flutter,
+Node.js, Java, Flutter,
 além de versionamento usando Git.
 Inscreva-se na minha Newsletter
 para receber tutoriais, guias e referências.
