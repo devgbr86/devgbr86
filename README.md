@@ -29,17 +29,8 @@ Compartilho meus códigos e projetos no repositório GitHub.
 topverbs@gmail.com
 
 
----
 
 
-## Skills
-
-- **HTML/CSS**
-- **JS/Node/Marked.js**
-- **TailwindCSS**
-- **Flutter**
-- **Java**
-- **Git**
 
 
 <br/>
