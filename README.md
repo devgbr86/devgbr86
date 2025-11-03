@@ -1,6 +1,6 @@
 <h1 align="center">Guilherme Ribeiro</h1>
 
-<p align="center">
+<p align="left">
   Programador e Desenvolvedor com experiência em<br/>
   <b>JavaScript, Node.js, Marked.js, TailwindCSS, Java e Flutter</b>,<br/>
   além de versionamento utilizando <b>Git</b>.
