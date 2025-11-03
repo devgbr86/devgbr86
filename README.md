@@ -1,23 +1,16 @@
 <h1 align="center">Guilherme Ribeiro</h1>
 
 <p align="left">
-  Programador e Desenvolvedor com experiência em<br/>
-  <b>JavaScript, Node.js, Marked.js, TailwindCSS, Java e Flutter</b>,<br/>
+  Programador e Desenvolvedor com experiência em
+  <br/>
+  <b>JavaScript, Node.js, Marked.js, TailwindCSS, Java e Flutter</b>,
+  <br/>
   além de versionamento utilizando <b>Git</b>.
 </p>
 
 
 
-  # Meu README
 
-<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="400" height="100" fill="#1a1a1a"/>
-  <text x="200" y="55" font-size="24" fill="#00ff00" text-anchor="middle">
-    Hello World!
-  </text>
-</svg>
-
-Resto do conteúdo...
 
 
 
