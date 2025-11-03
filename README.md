@@ -7,42 +7,8 @@
 </p>
 
 
-<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Card com bordas arredondadas -->
-  <rect x="10" y="10" width="380" height="280" 
-        rx="15" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+
   
-  <!-- Badge no topo -->
-  <rect x="30" y="30" width="150" height="30" 
-        rx="5" fill="#238636"/>
-  <text x="105" y="50" 
-        font-family="monospace" 
-        font-size="14" 
-        fill="white" 
-        text-anchor="middle">
-    // WEB DESIGN
-  </text>
-  
-  <!-- Título -->
-  <text x="30" y="100" 
-        font-family="Arial" 
-        font-size="24" 
-        font-weight="bold" 
-        fill="#C9D1D9">
-    HABILIDADES
-  </text>
-  
-  <!-- Lista de itens -->
-  <text x="30" y="140" font-family="Arial" font-size="14" fill="#8B949E">
-    /MODERN LAYOUTS
-  </text>
-  <text x="30" y="165" font-family="Arial" font-size="14" fill="#8B949E">
-    /RESPONSIVE DESIGN
-  </text>
-  <text x="30" y="190" font-family="Arial" font-size="14" fill="#8B949E">
-    /CLEAN NAVIGATION
-  </text>
-</svg>
 
 
 
