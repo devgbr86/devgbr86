@@ -18,16 +18,13 @@
 
 ## Contato e Links
 
-**Personal site**  
+- **Personal site**  
 [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)
 
-**Newsletter**  
-[devcaffe.substack.com](https://devcaffe.substack.com)
-
-**LinkedIn**  
+- **LinkedIn**  
 [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
 
-**Email**  
+- **Email**  
 [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 ---
