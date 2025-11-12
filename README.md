@@ -1,12 +1,10 @@
 <h1 align="center">Guilherme Ribeiro</h1>
 
-<p align="left">
-  Programador e Desenvolvedor com experiência em
-  <br/>
-  <b>JavaScript, Node.js, Marked.js, TailwindCSS, Java e Flutter</b>,
-  <br/>
-  além de versionamento utilizando <b>Git</b>.
-</p>
+
+
+
+Programador e Desenvolvedor com experiência em: JavaScript, Node.js, Marked.js, TailwindCSS, Java, Flutter, além de versionamento utilizando Git.
+Experiência na produção e edição de eBooks usando Markdown e Pandoc, garantindo padronização, qualidade tipográfica e conversões consistentes entre formato
 
 
 
