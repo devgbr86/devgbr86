@@ -14,7 +14,6 @@ Experiência na produção e edição de eBooks usando Markdown e Pandoc, garant
 
 ---
 
-## Contato e Links
 
 - **Personal site**  
 [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)
