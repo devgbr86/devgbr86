@@ -1,11 +1,3 @@
-<h1 align="center">Guilherme Ribeiro</h1>
-
-
-Programador e Desenvolvedor Front-end com experiência em HTML/CSS, JavaScript, Marked.js, TailwindCSS, Frameworks e Tecnologias para sites estáticos profissionais, além de versionamento utilizando Git.
-
-Experiência na produção e edição de eBooks usando Markdown e Pandoc, garantindo padronização, qualidade tipográfica e conversões consistentes entre formatos.
-
-
 
 
 ---
