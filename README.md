@@ -15,7 +15,8 @@
 - **TechBooks**      
   - [techbookspages.dev](https://techbooks.pages.dev)
 
-  
+- **Newsletter**      
+  - [liberdev.substack.com](https://liberdev.substack.com)
 
 ---
 
