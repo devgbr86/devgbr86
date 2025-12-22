@@ -4,16 +4,16 @@
 
 
 - **Personal site**  
-[devgbr86.github.io/profile](https://devgbr86.github.io/profile/)
+  - [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)
 
 - **LinkedIn**  
-[linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
+  - [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
 
 - **Email**  
-[topverbs@gmail.com](mailto:topverbs@gmail.com)
+  - [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 - **TechBooks**      
-[techbookspages.dev](https://techbooks.pages.dev)
+  - [techbookspages.dev](https://techbooks.pages.dev)
 
   
 
