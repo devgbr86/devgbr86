@@ -2,6 +2,10 @@
 
 ---
 
+**Front-end Developer | JavaScript | TailwindCSS | Jamstack Web Interfaces**
+
+---
+
 
 - **Personal site**  
   - [devgbr86.github.io/profile](https://devgbr86.github.io/profile/)
