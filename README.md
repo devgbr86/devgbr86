@@ -17,7 +17,7 @@
   - [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 - **TechBooks**      
-  - [techbookspages.dev](https://techbooks.pages.dev)
+  - [techbooks.pages.dev](https://techbooks.pages.dev)
 
 - **Newsletter**      
   - [liberdev.substack.com](https://liberdev.substack.com)
