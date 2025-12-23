@@ -2,7 +2,7 @@
 
 ---
 
-**Front-end Developer | JavaScript | TailwindCSS | Jamstack Web Interfaces**
+**Front-end Developer | JavaScript | React.js | TailwindCSS | Jamstack Web Interfaces**
 
 ---
 
