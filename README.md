@@ -19,9 +19,15 @@
  
 - **Personal Site**
   - [landkit.pages.dev](https://landkit.pages.dev)
+ 
+- **Ebooks**      
+  - [github.com/devgbr86/profile/releases](https://github.com/devgbr86/profile/releases)
+ 
 
 - **Newsletter**      
   - [liberdev.substack.com](https://liberdev.substack.com)
+ 
+  
  
 
 
