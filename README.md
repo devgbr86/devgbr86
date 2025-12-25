@@ -2,7 +2,9 @@
 
 ---
 
+
 **Front-end Developer | JavaScript | React.js | TailwindCSS | Jamstack Web Interfaces**
+
 
 ---
 
@@ -18,11 +20,11 @@
 - **Websites**
   - [landkit.pages.dev](https://landkit.pages.dev)
 
-- **TechBooks**      
-  - [techbooks.pages.dev](https://techbooks.pages.dev)
-
 - **Newsletter**      
   - [liberdev.substack.com](https://liberdev.substack.com)
+ 
+
+
 
 ---
 
