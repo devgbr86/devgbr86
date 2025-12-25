@@ -17,7 +17,7 @@
 - **Email**  
   - [topverbs@gmail.com](mailto:topverbs@gmail.com)
  
-- **Websites**
+- **Personal Site**
   - [landkit.pages.dev](https://landkit.pages.dev)
 
 - **Newsletter**      
