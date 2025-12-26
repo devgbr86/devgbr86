@@ -24,7 +24,7 @@
  
 
 - **Blog**      
-  - [frontstack.substack.com](https://frontstack.substack.com)
+  - [frontstack.pages.dev](https://frontstack.pages.dev)
  
   
  
