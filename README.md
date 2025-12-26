@@ -23,8 +23,8 @@
 
  
 
-- **Newsletter**      
-  - [liberdev.substack.com](https://liberdev.substack.com)
+- **Blog**      
+  - [frontstack.substack.com](https://frontstack.substack.com)
  
   
  
