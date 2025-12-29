@@ -10,22 +10,21 @@
 
 
 
-
-- **LinkedIn**  
+**LinkedIn**  
   - [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
 
-- **Email**  
+**Email**  
   - [topverbs@gmail.com](mailto:topverbs@gmail.com)
  
-- **Website**
+**Website**
   - [landkit.pages.dev](https://landkit.pages.dev)
  
 
- - **Ebook Frontend**       
+  **Ebook Frontend**       
   - [ebookfront.pages.dev](https://ebookfront.pages.dev)
 
 
-- **Blog**      
+**Blog**      
   - [frontstack.pages.dev](https://frontstack.pages.dev)
  
   
