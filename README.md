@@ -17,11 +17,13 @@
 - **Email**  
   - [topverbs@gmail.com](mailto:topverbs@gmail.com)
  
-- **Landing Page**
+- **Website**
   - [landkit.pages.dev](https://landkit.pages.dev)
  
 
- 
+ - **Ebook Frontend**
+  - [ebookfront.pages.dev](https://ebookfront.pages.dev)
+
 
 - **Blog**      
   - [frontstack.pages.dev](https://frontstack.pages.dev)
