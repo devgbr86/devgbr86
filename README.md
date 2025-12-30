@@ -1,9 +1,9 @@
-# 🌐 Landing Pages Sob Medida
+# 🌐 Landing Pages e Sites Estáticos Únicos
 
 [landkit.pages.dev](https://landkit.pages.dev)
 
 ## Sobre
-Sites estáticos sob medida, códigos e arquivos prontos para hospedar em qualquer servidor.  
+Criação de Landing Pages e Sites Estáticos sob medida.  
 
 - HTML5 + Tailwind CSS + Javascript  
 - Totalmente responsivo para todos os dispositivos  
