@@ -1,6 +1,6 @@
 # 🌐 Landing Pages e Sites Estáticos Únicos
 
-[landkit.pages.dev](https://landkit.pages.dev)
+
 
 ## Sobre
 Criação de Landing Pages e Sites Estáticos sob medida.  
@@ -11,7 +11,7 @@ Criação de Landing Pages e Sites Estáticos sob medida.
 - CTA, Copywriting e layout focado para conversão
 - Instruções para Hospedagem Gratuita Vercel, Netlify, Cloudflare, GitHub
 
-[landkit.pages.dev](https://landkit.pages.dev) 
+
 
 ## Como funciona
 1. Conversamos sobre o seu projeto  
@@ -47,6 +47,8 @@ Criação de Landing Pages e Sites Estáticos sob medida.
 ## Contato
 
 
+**Landkit**
+- [landkit.pages.dev](https://landkit.pages.dev) 
 
 
 **Email**       
