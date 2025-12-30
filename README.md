@@ -49,21 +49,20 @@ Sites estáticos sob medida, códigos e arquivos prontos para hospedar em qualqu
 
 
 
-**Email**
+**Email**       
 - [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 
 
 
 
-**LinkedIn**  
+**LinkedIn**    
   - [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
 
 
-  **Ebook Frontend**       
-  - [ebookfront.pages.dev](https://ebookfront.pages.dev)
-  - 
-
+**Ebook Frontend**       
+- [ebookfront.pages.dev](https://ebookfront.pages.dev)
+  
 
 **Blog**      
   - [frontstack.pages.dev](https://frontstack.pages.dev)
