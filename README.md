@@ -47,7 +47,7 @@ Criação de Landing Pages e Sites Estáticos sob medida.
 ## Contato
 
 
-**Landkit**       
+**Landing Page**       
 - [landkit.pages.dev](https://landkit.pages.dev) 
 
 
@@ -66,8 +66,7 @@ Criação de Landing Pages e Sites Estáticos sob medida.
 - [ebookfront.pages.dev](https://ebookfront.pages.dev)
   
 
-**Blog**      
-  - [frontstack.pages.dev](https://frontstack.pages.dev)
+
  
   
  
