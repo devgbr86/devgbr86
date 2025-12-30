@@ -3,8 +3,7 @@
 ---
 
 
-**Front-end Developer | JavaScript | React.js | TailwindCSS | Jamstack Websites**
-
+**Front-end Developer | JavaScript | HTML & CSS | TailwindCSS | Static Websites**
 
 ---
 
