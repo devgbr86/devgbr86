@@ -56,14 +56,10 @@ Criação de Landing Pages e Sites Estáticos sob medida.
 
 
 
-
 **LinkedIn**    
   - [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr/)
 
 
-**Ebook Frontend**       
-- [ebookfront.pages.dev](https://ebookfront.pages.dev)
-  
 
 
  
