@@ -1,21 +1,20 @@
-# 🌐 Landing Pages e Sites Estáticos Únicos
+# 🌐 Landing Pages e Sites Estáticos criados sob medida usando HTML, CSS e JavaScript
 
 
 ## Sobre
-Criação de Landing Pages e Sites Estáticos sob medida.  
 
 - HTML5 + Tailwind CSS + Javascript  
-- Totalmente responsivo para todos os dispositivos  
+- Totalmente responsivo para todos os dispositivos PC MOBILE TABLET
 - SEO básico já estruturado  
 - CTA, Copywriting e layout focado para conversão
-- Instruções para Hospedagem Gratuita Vercel, Netlify, Cloudflare, GitHub
+- Arquivos prontos para Hospedar em qualquer servidor
 
 
 
 ## Como funciona
 1. Conversamos sobre o seu projeto  
 2. Você aprova o layout e funcionalidades  
-3. Envio dos arquivos prontos para hospedar em qualquer servidor
+3. Envio dos arquivos e instruções para hospedar em qualquer servidor
 
 ## Preço
 💰 Valor sob consulta 
