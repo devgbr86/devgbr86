@@ -1,4 +1,4 @@
-# 🌐 Landing Pages e Sites Estáticos criados sob medida usando HTML, CSS e JavaScript
+# Landing Pages e Sites Estáticos criados sob medida usando HTML, CSS e JavaScript
 
 
 ## Sobre
