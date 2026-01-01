@@ -5,7 +5,7 @@
 
 - HTML5 + Tailwind CSS + Javascript  
 - Totalmente responsivo para todos os dispositivos PC MOBILE TABLET
-- SEO essencial já estruturado  
+- SEO estruturado e configurado  
 - CTA, Copywriting e layout focado para conversão
 - Arquivos prontos para Hospedar em qualquer servidor
 
