@@ -20,7 +20,7 @@
 💰 Valor sob consulta 
 
 
-
+- [landkit.pages.dev](https://landkit.pages.dev) 
 
 
 > ⚠️ Observação: Este é um produto **sob medida**. Não vendemos templates genéricos. Cada site é único e adaptado ao seu projeto.
@@ -42,15 +42,9 @@
 
 ---
 
-## Contato
 
 
-**Landing Page**       
-- [landkit.pages.dev](https://landkit.pages.dev) 
 
-
-**Email**       
-- [topverbs@gmail.com](mailto:topverbs@gmail.com)
 
 
 
@@ -64,7 +58,5 @@
  
 
 
-
----
 
 
