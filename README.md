@@ -1,10 +1,22 @@
-[🔗svault.pages.dev](https://svault.pages.dev)     
+🔒 Conteúdo Exclusivo para DEVs
 
+✔️Tutoriais atualizados
 
+✔️Organizados por níveis de dificuldade
 
-Skill Vault é uma plataforma educacional criada para desenvolvedores que buscam aprimorar suas habilidades de forma estruturada e prática. Com conteúdo exclusivo organizado por níveis de dificuldade, o projeto oferece tutoriais atualizados sobre tecnologias fundamentais do desenvolvimento web, desde Git e VSCode até projetos completos com React e TypeScript. Desenvolvido por Guilherme Ribeiro, o Skill Vault funciona como um vault digital de conhecimento, proporcionando acesso a materiais cuidadosamente selecionados, guias práticos e suporte direto, tudo pensado para acelerar a jornada de aprendizado de desenvolvedores iniciantes e intermediários que desejam solidificar sua base técnica e construir projetos reais.
+✔️Tutorial Git + VSCode
 
+✔️HTML/CSS/JavaScript
 
+✔️CSS flexbox/grid/media queries
+
+✔️Projeto Estático + Deploy Gratuito
+
+✔️Projeto Autenticação + Cloudflare Workers
+
+✔️Projeto React + TypeScript com Vite
+
+✔️Guias e checklists para desenvolvedores
 
 [🔗svault.pages.dev](https://svault.pages.dev)     
 
