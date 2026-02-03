@@ -1,10 +1,10 @@
-**HTML**
-**CSS**
-**JAVASCRIPT**
-**REACT**
-**TYPESCRIPT**
-**TAILWINDCSS**
-**GIT/GITHUB**
+**HTML**     
+**CSS**     
+**JAVASCRIPT**     
+**REACT**     
+**TYPESCRIPT**     
+**TAILWINDCSS**     
+**GIT/GITHUB**     
 
 --- 
 
