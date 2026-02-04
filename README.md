@@ -15,7 +15,7 @@
 
 
 
-🔒 Conteúdo Exclusivo para DEVs
+🔒 Conteúdo Exclusivo para DEVs     
 [svault.pages.dev](https://svault.pages.dev)
 
 
