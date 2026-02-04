@@ -18,13 +18,15 @@
 🔒 Conteúdo Exclusivo para DEVs     
 [svault.pages.dev](https://svault.pages.dev)
 
+--- 
+
+[LinkedIn](https://www.linkedin.com/in/devgbr)      
+
+Email:     
+topverbs@gmail.com
 
 
 
-
-
-
----
 
 
 
