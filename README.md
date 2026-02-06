@@ -15,15 +15,33 @@
 
 
 
-🔒 Conteúdo Exclusivo para DEVs     
-[svault.pages.dev](https://svault.pages.dev)
+🔒 Conteúdo Exclusivo para DEVs
+
+- [svault.pages.dev](https://svault.pages.dev)
 
 --- 
 
-[LinkedIn](https://www.linkedin.com/in/devgbr)      
+
+--- 
 
 
-topverbs@gmail.com
+
+
+🌐 Websites & Landing Pages  
+
+- [landkit.pages.dev](https://landkit.pages.dev)       
+
+- [caffetheme.pages.dev](https://caffetheme.pages.dev)
+
+--- 
+
+
+
+
+- [LinkedIn](https://www.linkedin.com/in/devgbr)      
+
+
+- topverbs@gmail.com
 
 
 
