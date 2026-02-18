@@ -24,14 +24,16 @@
 
 --- 
 
+☕ CaffeWiki
 
+- [caffewiki.pages.dev](https://caffewiki.pages.dev)   
 
+--- 
 
 🌐 Websites & Landing Pages  
 
 - [landkit.pages.dev](https://landkit.pages.dev)       
 
-- [caffetheme.pages.dev](https://caffetheme.pages.dev)
 
 --- 
 
