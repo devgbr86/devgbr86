@@ -23,11 +23,7 @@
 
 --- 
 
-☕ Wikipédia sobre Café
 
-- [caffewiki.pages.dev](https://caffewiki.pages.dev)   
-
---- 
 
 🌐 Websites & Landing Pages  
 
