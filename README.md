@@ -2,6 +2,10 @@
 
 
 
+- [LinkedIn](https://www.linkedin.com/in/devgbr)      
+
+
+- topverbs@gmail.com
 
 
 
@@ -30,15 +34,11 @@
 - [landkit.pages.dev](https://landkit.pages.dev)       
 
 
---- 
 
 
+---
 
 
-- [LinkedIn](https://www.linkedin.com/in/devgbr)      
-
-
-- topverbs@gmail.com
 
 
 
