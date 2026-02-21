@@ -2,7 +2,7 @@
 
 
 
-- [gribeiro.pages.dev](https://gribeiro.pages.dev)   
+- [fronthub.pages.dev](https://fronthub.pages.dev)   
 
 
 - [LinkedIn](https://www.linkedin.com/in/devgbr)      
