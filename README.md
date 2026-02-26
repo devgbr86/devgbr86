@@ -16,14 +16,14 @@
 ## Projects 
 
 
-Movie Search API
-- [movie-api](https://devgbr86.github.io/movie-api-ts/)
+Movie Search API+TypeScript
+- [movie-api](https://devgbr86.github.io/movie-api/)
 
 Caffe Wikipedia
-- [movie-api](https://devgbr86.github.io/movie-api-ts/)
+- [caffe-wiki](https://devgbr86.github.io/caffe-wiki/)
 
-Advanced CSS Flexbox Grid Media Queries
-- [movie-api](https://devgbr86.github.io/movie-api-ts/)
+CSS Flexbox Grid Media Queries Showcase
+- [scss-demo](https://devgbr86.github.io/scss-demo/)
 
 
 
