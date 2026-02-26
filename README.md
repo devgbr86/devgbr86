@@ -13,25 +13,31 @@
 
 
 
-## Projects 
+## Tech Stack 
 
-
-Movie Search API+TypeScript
-- [movie-api](https://devgbr86.github.io/movie-api/)
-
-Caffe Wikipedia
-- [caffe-wiki](https://devgbr86.github.io/caffe-wiki/)
-
-CSS Flexbox Grid Media Queries Showcase
-- [scss-demo](https://devgbr86.github.io/scss-demo/)
-
-
-
-
-
-
-
---- 
+- HTML
+- CSS 
+- JavaScript
+- Node.js
+- React.js
+- TypeScript
+- TailwindCSS
+- Flexbox/Grid/Media Queries
+- User Interface
+- Git
+- Deploy Netlify/Cloudflare/Vercel
+- REST API/Cloudflare Workers
 
 
 
+
+
+  
+
+
+
+
+
+
+
+---    
