@@ -24,7 +24,7 @@
 - TailwindCSS
 - Flexbox/Grid/Media Queries
 - User Interface
-- Git
+- Git/GitHub
 - Deploy Netlify/Cloudflare/Vercel
 - REST API/Cloudflare Workers
 
