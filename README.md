@@ -2,8 +2,6 @@
 
 
 
-- [fronthub.pages.dev](https://fronthub.pages.dev)   
-
 
 - [LinkedIn](https://www.linkedin.com/in/devgbr)      
 
