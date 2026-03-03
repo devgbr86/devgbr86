@@ -13,23 +13,6 @@
 
 
 
-## Skills 
-
-- HTML
-- CSS 
-- JavaScript
-- Node.js
-- React.js
-- TypeScript
-- TailwindCSS
-- Flexbox/Grid/Media Queries
-- User Interface
-- Git/GitHub
-- Deploy Netlify/Cloudflare/Vercel
-- REST API/Cloudflare Workers
-
-
-
 
 
 
