@@ -1,4 +1,4 @@
-## Guilherme Ribeiro: Front-end | React • TypeScript • Interface
+## Guilherme Ribeiro: Front-end Developer
 
 
 
