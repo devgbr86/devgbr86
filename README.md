@@ -17,7 +17,7 @@
 ## 🗂️ Main REPs
 
 - 🗂️ [front-codex](https://github.com/devgbr86/front-codex) – Ebook Frontend Blueprint 2026
-- 🗂️ [tesseract](https://github.com/devgbr86/tesseract) – 4D Politype visualizer // Stack: HTML/CSS/ThreeJS
+- 🗂️ [tesseract](https://github.com/devgbr86/tesseract) – 4D Polytope visualizer // Stack: HTML/CSS/ThreeJS
 - 🗂️ [md-editor](https://github.com/devgbr86/md-editor) – Markdown Online Editor // Stack: HTML/CSS/MarkedJS
 - 🗂️ [katex-editor](https://github.com/devgbr86/katex-editor) – Math Formula Editor // Stack: HTML/CSS/KatexJS
 - 🗂️ [movie-api](https://github.com/devgbr86/movie-api) – Movie Search // Stack: HTML/CSS/JS/API/TypeScript
