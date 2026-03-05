@@ -21,6 +21,7 @@
 - TailwindCSS
 - Flexbox/Grid/Layout
 - Media Queries
+- User Interface
 - Git/GitHub
 - APIs
 - Cloudflare Workers & KV (JSON)
