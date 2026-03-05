@@ -13,7 +13,7 @@
 ## Tech Stack
 
 
-HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, TailwindCSS, Flexbox/Grid/Layout, Media Queries, User Interface, Git/GitHub, APIs, Cloudflare Workers & KV (JSON)
+HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, TailwindCSS, Media Queries, User Interface, Git/GitHub, APIs, Cloudflare Workers & KV (JSON)
 
 
 
