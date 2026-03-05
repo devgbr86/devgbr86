@@ -19,7 +19,7 @@
 - React.js
 - TypeScript
 - TailwindCSS
-- Flexbox/Grid
+- Flexbox/Grid/Layout
 - Media Queries
 - Git/GitHub
 - APIs
