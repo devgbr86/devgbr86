@@ -23,7 +23,7 @@
    - **Stack:** HTML, CSS, JavaScript, Three.js  
    - Visualizador de poliedros 4D, demonstra habilidades em gráficos 3D/4D e interatividade.
 
-2. **[movie-api](https://github.com/devgbr86/movie-api)**  
+2. **[nebula-movies](https://github.com/devgbr86/nebula-movies)**  
    - **Stack:** TypeScript, API  
    - Sistema de busca de filmes integrando APIs, com lógica em TypeScript.
 
