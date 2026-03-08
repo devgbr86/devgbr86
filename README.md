@@ -1,5 +1,5 @@
 ## Guilherme Ribeiro 
-> Web Developer: JavaScript, NodeJS, ReactJS, TypeScript, UI, APIs
+**Web Developer: JavaScript, NodeJS, ReactJS, TypeScript, UI, APIs**
 
 
 
