@@ -48,4 +48,4 @@ Ebook Frontend Blueprint 2026 [front-codex](https://github.com/devgbr86/front-co
 - [LinkedIn](https://www.linkedin.com/in/devgbr)      
 
 
-- topverbs@gmail.com
+- Email: topverbs@gmail.com
