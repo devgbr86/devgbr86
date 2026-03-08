@@ -1,4 +1,5 @@
-## Guilherme Ribeiro: Web Developer
+## Guilherme Ribeiro 
+> Web Developer
 
 
 
