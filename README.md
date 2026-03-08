@@ -1,5 +1,10 @@
 ## Guilherme Ribeiro 
 > Web Developer
+> JavaScript
+> NodeJS
+> ReactJS
+> TypeScript
+> User Interface
 
 
 
