@@ -1,18 +1,20 @@
 ## Guilherme Ribeiro 
-> Web Developer
+> Web Developer: JavaScript, NodeJS, ReactJS, TypeScript, UI, APIs
 
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/devgbr)      
 
 
-- topverbs@gmail.com
+
 
 
 
 
 ## Web Tools projects
+
+
+
 
 ### MD Editor
 > Markdown Online Editor
@@ -32,16 +34,12 @@
 
 
 
-
-
-
 ---
 
 
-## Tech Stack
 
 
-**HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, TailwindCSS, User Interface, Git/GitHub, APIs, Workers/KV JSON**
+- [LinkedIn](https://www.linkedin.com/in/devgbr)      
 
-  
 
+- topverbs@gmail.com
