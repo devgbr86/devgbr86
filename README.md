@@ -1,10 +1,6 @@
 ## Guilherme Ribeiro 
-> Web Developer
-> JavaScript
-> NodeJS
-> ReactJS
-> TypeScript
-> User Interface
+> Web Developer     
+> HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, TailwindCSS, User Interface, Git/GitHub, APIs, Workers/KV JSON
 
 
 
