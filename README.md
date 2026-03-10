@@ -19,8 +19,6 @@ Projects and Docs Archive
 Science Fiction Movie Search
 - github.com/devgbr86/nebula-movies
 
-Caffe Wiki
-- github.com/devgbr86/caffe-wiki
 
 
 
