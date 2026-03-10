@@ -8,14 +8,14 @@
 
 
 Projects and Docs Archive
-- [codex-pro](https://github.com/devgbr86/codex-pro)      
+- [codex-pro](https://devgbr86.github.io/codex-pro/)      
 
 
 
 
 
 
-
+---
 
 
 
