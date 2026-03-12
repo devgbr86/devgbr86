@@ -1,19 +1,8 @@
 ## Guilherme Ribeiro 
-> Web Developer: JavaScript, NodeJS, ReactJS, TypeScript, UI, APIs
+> Web Developer: HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, UI, APIs
 
 
-
-
-
-
-
-**Projects and Docs Archive**
-
-
-- [md-grid](https://devgbr86.github.io/md-grid/)      
-
-
-
+  
 
 
 
