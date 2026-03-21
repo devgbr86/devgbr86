@@ -13,7 +13,7 @@
 
 ### Nebula Movies
 Movie search database powered by OMdb API. Search by title, type, genres, year and country.
-- Stack: JavaScript, ES Modules, TypeScript, Hash Router, API integration
+- Stack: JavaScript, TypeScript, Hash Router, API integration
 - Link: 
 
 
@@ -35,7 +35,7 @@ Create unique code snippets screenshots.
 
 ### Caffe Wiki
 Static wikipedia about coffee, coffee grains, species, history and coffee industry. 
-- Stack: HTML, CSS, MarkedJS
+- Stack: HTML, CSS, Hash Router, MarkedJS
 - Link:
 
 
