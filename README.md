@@ -6,7 +6,7 @@
 
 
 
----
+
 
 
 ## Personal Projects 
@@ -40,7 +40,7 @@ Static wikipedia about coffee, coffee grains, species, history and coffee indust
 
 
 
-
+---
 
 
 - [LinkedIn](https://www.linkedin.com/in/devgbr)      
