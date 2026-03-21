@@ -1,42 +1,16 @@
 ## Guilherme Ribeiro 
-> Web Developer: HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, APIs, UI 
+> HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, APIs, UI 
 
 
   
+Web Developer com foco em JavaScript moderno e TypeScript, atuando na construção de aplicações web completas com HTML, CSS e integração de APIs. Experiência no desenvolvimento de SPAs com roteamento client-side (incluindo hash routing), organização modular e foco em performance. Atuo na criação de interfaces funcionais, com domínio de fluxo de versionamento com Git e deploy em ambientes como Cloudflare, Vercel e Netlify.
 
 
 
 
 
 
-## Personal Projects 
 
-### Nebula Movies
-Movie search database powered by OMdb API. Search by title, type, genres, year and country.
-- Stack: JavaScript, TypeScript, Hash Router, API integration
-- Link: 
-
-
-
-### Snap Code
-Create unique code snippets screenshots.  
-- Stack: HTML, CSS, PrismJS, HighlightJS, Canva
-- Link:
-
-
-
-### Tesseract
-4D Polytope Visualizer.  
-- Stack: HTML, CSS, ThreeJS 
-- Link:
-
-
-
-
-### Caffe Wiki
-Static wikipedia about coffee, coffee grains, species, history and coffee industry. 
-- Stack: HTML, CSS, Hash Router, MarkedJS
-- Link:
 
 
 
