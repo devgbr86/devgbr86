@@ -1,12 +1,11 @@
 ## Guilherme Ribeiro 
-> HTML, CSS, JavaScript, ReactJS, TypeScript, APIs, UI 
+> Web Developer • JavaScript • TypeScript
+• SPA • APIs • Client-side routing (hash)
+• Modular architecture • Performance • Functional UI
+• Git • Cloudflare • Vercel • Netlify 
 
 
   
-Web Developer • JavaScript • TypeScript
-• SPA • APIs • Client-side routing (hash)
-• Modular architecture • Performance • Functional UI
-• Git • Cloudflare • Vercel • Netlify
 
 
 
