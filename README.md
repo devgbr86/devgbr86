@@ -10,17 +10,15 @@ Git • Cloudflare • Vercel • Netlify
 
 
 
+### Projects and Portfolio 
+- [gribeiro.pages.dev](https://gribeiro.pages.dev) 
 
 
 
 
 
+### LinkedIn
+- [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr)      
 
-
----
-
-
-- [LinkedIn](https://www.linkedin.com/in/devgbr)      
-
-
-- Email: topverbs@gmail.com
+### Email
+- topverbs@gmail.com
