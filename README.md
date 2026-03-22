@@ -4,9 +4,9 @@
 
   
 Web Developer • JavaScript • TypeScript
-SPA • APIs • Client-side routing (hash)
-Modular architecture • Performance • Functional UI
-Git • Cloudflare • Vercel • Netlify
+• SPA • APIs • Client-side routing (hash)
+• Modular architecture • Performance • Functional UI
+• Git • Cloudflare • Vercel • Netlify
 
 
 
