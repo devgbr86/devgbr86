@@ -9,9 +9,6 @@
 
 
 
-### Projects and Portfolio 
-- [gribeiro.pages.dev](https://gribeiro.pages.dev) 
-
 
 
 
