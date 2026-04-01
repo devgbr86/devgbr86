@@ -2,7 +2,7 @@
 
   
 
-Desenvolvedor web com base sólida em HTML, CSS e JavaScript — construindo interfaces modulares com hash router e arquitetura orientada a componentes sem depender de framework. Evolui naturalmente para TypeScript e consumo de APIs REST, depois para backend com Node.js e SQLite, escrevendo SQL na mão, sem ORM. Trabalha com arquiteturas serverless via Cloudflare Workers e KV para soluções rápidas e sem servidor. Versiona tudo com Git e faz deploy via Cloudflare, Vercel e Netlify.
+Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações web de forma prática e orientada a projetos reais. Tenho experiência com construção de interfaces, consumo de APIs e desenvolvimento de backends organizados, com atenção à clareza do código e simplicidade das soluções. Busco aplicar fundamentos sólidos no dia a dia, construindo projetos que refletem problemas reais e priorizam legibilidade, manutenção e eficiência.
 
 
 
