@@ -9,7 +9,7 @@ Desenvolvedor com foco em TypeScript, JavaScript e Node.js, criando aplicações
 
 
 ### LinkedIn
-- [linkedin.com/in/devgbr](https://www.linkedin.com/in/gribeirodev)      
+- [linkedin.com/in/gribeirodev](https://www.linkedin.com/in/gribeirodev)      
 
 ### Email
 - topverbs@gmail.com
